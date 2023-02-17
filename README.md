@@ -1,3 +1,7 @@
+# Live Link 👇🏾
+
+https://astro-website-project.netlify.app/
+
 # Astro Starter Kit: Minimal
 
 ```
